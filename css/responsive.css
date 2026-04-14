@@ -1,0 +1,81 @@
+@media (max-width: 576px) {
+    .row{
+        gap: 24px;
+    }
+    h2 {
+    font-size: 35px;
+    font-weight: 600;
+}
+    #banner-part h1 {
+    font-size: 45px;
+    line-height: 60px;
+}
+#banner-part p {
+    padding: 15px 0px 15px 0px;
+    width: 100%;
+}
+.btn-danger {
+    padding: 14px 34px;
+    font-size: 16px;
+}
+#banner-part img{
+    width: 100%;
+}
+#counter-part {
+    padding: 80px 0px;
+}
+.counter {  
+    padding: 70px 100px;
+}
+.counter .text-start{
+    text-align: center !important;
+}
+
+.sec-head {
+    width: 100%;
+    margin-bottom: 40px;
+}
+#working-part {
+    margin-bottom: 80px;
+}
+#video-part {
+    padding-bottom: 80px;
+}
+.videoBg{
+    width: 100%;
+}
+.playBtn {
+    width: 100px;
+    height: 100px;
+}
+#pump-insta {
+    padding: 80px 0px;
+}
+#insta-work {
+    padding: 80px 0px;
+}
+.rating-dots{
+    display: none;
+}
+#Faq-part {
+    margin-bottom: 80px;
+}
+footer {
+    padding: 80px 0px;
+}
+.footer-left{
+    text-align: center;
+}
+.footer-center{
+    text-align: center;
+}
+.footer-left div {
+    justify-content: center;
+}
+.footer-right{
+    text-align: center;
+}
+.footer-input {
+    margin: auto;
+}
+}
